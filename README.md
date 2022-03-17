@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DarshanVanol
 - 👀 I’m interested in Tech,Innovation
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning Kotlin(Android)
